@@ -1,6 +1,6 @@
 <!-- This template removes the micro tutorial for a quicker post and removes images for a full template check out the 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-**Preparing for AZ-900 Fundamentals:**
+**Preparing for AZ-900 Fundamentals:-**
 ![placeholder image](az-100_banner.png)
 
 # Selecting AZURE
