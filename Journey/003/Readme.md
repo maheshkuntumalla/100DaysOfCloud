@@ -1,52 +1,20 @@
-**Add a cover photo like:**
-![placeholder image](https://via.placeholder.com/1200x600)
+<!-- This is a template you can use for quick progress days. It removes a lot of the steps we encourage you to share in the longer template 000-DAY-ARTICLE-LONG-TEMPLATE.MD-->
 
-# New post title here
+# Azure Fundamentals part 1: Describe core Azure concepts
 
-## Introduction
+## [Part 1: Describe core Azure concepts](https://docs.microsoft.com/en-in/learn/paths/az-900-describe-cloud-concepts/)
 
-✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
+Today i started my learnings with first learning path among six learning paths
 
-## Prerequisite
+as part this learning path there are 3 modules namely
 
-✍️ (What) Explain in one or two sentences the base knowledge a reader would need before describing the the details of the cloud service or topic.
+[1. Introduction to Azure fundamentals](https://docs.microsoft.com/en-in/learn/modules/intro-to-azure-fundamentals/?WT.mc_id=api_CatalogApi&ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts)
 
-## Use Case
+[2. Discuss Azure fundamental concepts](https://docs.microsoft.com/en-in/learn/modules/fundamental-azure-concepts/?WT.mc_id=api_CatalogApi&ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts)
 
-- 🖼️ (Show-Me) Create an graphic or diagram that illustrate the use-case of how this knowledge could be applied to real-world project
-- ✍️ (Show-Me) Explain in one or two sentences the use case
-
-## Cloud Research
-
-- ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
-- 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
-
-## Try yourself
-
-✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 1 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-### Step 3 — Summary of Step
-
-![Screenshot](https://via.placeholder.com/500x300)
-
-## ☁️ Cloud Outcome
-
-✍️ (Result) Describe your personal outcome, and lessons learned.
-
-## Next Steps
-
-✍️ Describe what you think you think you want to do next.
+[3. Describe core Azure architectural components](https://docs.microsoft.com/en-in/learn/modules/azure-architecture-fundamentals/?WT.mc_id=api_CatalogApi&ns-enrollment-type=LearningPath&ns-enrollment-id=learn.az-900-describe-cloud-concepts)
+ as part this module there is an exercise which i will do it in next 
 
 ## Social Proof
 
-✍️ Show that you shared your process on Twitter or LinkedIn
-
-[link](link)
+[LinkdIn](https://www.linkedin.com/posts/kuntumalla-mahesh-7674b8145_100daysofcloud-az900-activity-6828734856281899008-01ul)
