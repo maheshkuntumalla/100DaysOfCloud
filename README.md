@@ -21,7 +21,7 @@ I want to be a cloud Administrative
 - [ ] ☁️ 3 > [preparation for az-900 day-1](Journey/003/Readme.md)
 - [ ] ☁️ 4 > [Create a website hosted in Azure](Journey/004/Readme.md)
 - [ ] ☁️ 5 > [preparation for az-900 day-2](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
+- [ ] ☁️ 6 > [revision](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [](Journey/007/Readme.md)
 - [ ] ☁️ 8 > [](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
