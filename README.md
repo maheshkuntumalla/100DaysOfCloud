@@ -23,7 +23,7 @@ I want to be a cloud Administrative
 - [ ] ☁️ 5 > [preparation for az-900 day-2](Journey/005/Readme.md)
 - [ ] ☁️ 6 > [revision](Journey/006/Readme.md)
 - [ ] ☁️ 7 > [preparation for az-900 day-3](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
+- [ ] ☁️ 8 > [creat virtual network](Journey/008/Readme.md)
 - [ ] ☁️ 9 > [](Journey/009/Readme.md)
 - [ ] ☁️ 10 > [](Journey/010/Readme.md)
 
